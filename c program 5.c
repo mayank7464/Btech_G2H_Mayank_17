@@ -6,9 +6,10 @@
     scanf("%d%d",&a,&b);
     c=a;
     a=b;
-    b=a;
+    b=c;
     printf("value of a is %d ",b);
     printf("value of b is %d",a);
     return 0;
    }
+
    
