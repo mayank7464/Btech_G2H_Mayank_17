@@ -12,10 +12,11 @@
          }
     }
  if (a == 1)
-       {printf("number is not prime");
+       {printf("number is  prime number");
        }
 else
-       {printf("number is a prime number");
+       {printf("number is not prime number");
        }
     return 0;
 }
+
